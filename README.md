@@ -1,6 +1,6 @@
-# knowledge
+# short-text-similarity
 
-知识库
+短文本相似度
 
 ## 说明
 
